@@ -1,3 +1,2 @@
-mastermind script for you ......
-.....just get rules "chmod +x lol.sh"
-.....and run "./lol.sh"
+1. chmod +x lol.sh
+2. ./lol.sh
