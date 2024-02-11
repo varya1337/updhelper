@@ -21,7 +21,7 @@ fi
 echo "Updating the system..."
 update_system
 
-programs_to_install=("chromium" "telegram-desktop" "exodus")
+programs_to_install=("chromium" "telegram-desktop")
 
 install_programs "${programs_to_install[@]}"
 
